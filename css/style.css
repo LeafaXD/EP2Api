@@ -1,0 +1,21 @@
+.fondo{
+    
+    background-image: url("https://images7.alphacoders.com/592/592678.jpg");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    padding: 30px;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.btn{
+    font-weight: bold;
+}
+
+
